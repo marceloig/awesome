@@ -9,6 +9,7 @@ Lista de links que considero importantes para uma carreira em TI
 
 ## Engineering
 - https://www.atlassian.com/team-playbook
+- https://github.com/charlax/professional-programming
 
 ## AWS
 - https://pedrodelgallego.github.io/blog/well-architected-framework/adopting-well-architected-framework-organization/
