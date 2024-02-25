@@ -1,5 +1,5 @@
 # Awesome 
-Curadoria de links que considero importantes conhecer para um profissional de TI
+Curadoria de links que considero importantes ter em mãos para um profissional de TI
 
 ## Leadership
 - https://leadership.garden/the-rule-of-3-in-communication/
