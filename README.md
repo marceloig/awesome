@@ -1,5 +1,5 @@
-# Awesome
-Lista de links que considero importantes para uma carreira em TI
+# Awesome 
+Curadoria de links que considero importantes conhecer para um profissional de TI
 
 ## Leadership
 - https://leadership.garden/the-rule-of-3-in-communication/
@@ -8,32 +8,41 @@ Lista de links que considero importantes para uma carreira em TI
 - https://buildrightside.com/autonomy-alignment/
 
 ## Engineering
-- https://www.atlassian.com/team-playbook
 - https://github.com/charlax/professional-programming
+- https://martinfowler.com/
+- https://www.allthingsdistributed.com/
 
 ## AWS
 - https://pedrodelgallego.github.io/blog/well-architected-framework/adopting-well-architected-framework-organization/
 - https://pedrodelgallego.github.io/blog/amazon/tolerating-eliminating-duplication/
+- https://github.com/build-on-aws
+- https://github.com/aws-samples
+- https://community.aws/
 
 ## SRE
 - https://newsletter.pragmaticengineer.com/p/incident-review-best-practices
-- https://sre.google/workbook/on-call/
+- https://sre.google/workbook/table-of-contents/
+
+## Team Management
+- https://www.atlassian.com/team-playbook
 
 ## Tools
-- https://github.com/prowler-cloud/prowler
+- https://www.sonarsource.com/
+- https://boxyhq.com/
+
+### Security
 - https://github.com/prowler-cloud/prowler
 - https://sentry.io/welcome/
 - https://www.shellcheck.net
 - https://github.com/aquasecurity/tfsec
 - https://sentry.io/welcome/
-- https://www.sonarsource.com/
 - https://www.codacy.com/
 - https://docs.bridgecrew.io/docs/aws-policy-index
 - https://commonfate.io/
 - https://asecure.cloud/
-- https://boxyhq.com/
 - https://github.com/cloudandthings/terraform-aws-clickops-notifier
-- https://www.atlassian.com/team-playbook
 
 ### Data Visualization
 - https://evidence.dev/
+- https://superset.apache.org/
+- https://redash.io/
