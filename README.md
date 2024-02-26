@@ -19,6 +19,7 @@ Curadoria de links que considero importantes ter em mãos para um profissional d
 - https://github.com/aws-samples
 - https://community.aws/
 - https://github.com/primeharbor/sensitive_iam_actions
+- https://github.com/DuckbillGroup/onboarding
 
 ## SRE
 - https://newsletter.pragmaticengineer.com/p/incident-review-best-practices
