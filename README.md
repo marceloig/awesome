@@ -1,4 +1,4 @@
-# Awesome 
+# Awesome Links
 Curadoria de links que considero importantes ter em mãos para um profissional de TI
 
 ## Leadership
@@ -18,6 +18,7 @@ Curadoria de links que considero importantes ter em mãos para um profissional d
 - https://github.com/build-on-aws
 - https://github.com/aws-samples
 - https://community.aws/
+- https://github.com/primeharbor/sensitive_iam_actions
 
 ## SRE
 - https://newsletter.pragmaticengineer.com/p/incident-review-best-practices
