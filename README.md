@@ -20,6 +20,7 @@ Curadoria de links que considero importantes ter em mãos para um profissional d
 - https://community.aws/
 - https://github.com/primeharbor/sensitive_iam_actions
 - https://github.com/DuckbillGroup/onboarding
+- https://github.com/primeharbor/aws-service-control-policies
 
 ## SRE
 - https://newsletter.pragmaticengineer.com/p/incident-review-best-practices
