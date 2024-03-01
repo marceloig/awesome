@@ -22,6 +22,9 @@ Curadoria de links que considero importantes ter em mãos para um profissional d
 - https://github.com/DuckbillGroup/onboarding
 - https://github.com/primeharbor/aws-service-control-policies
 
+## DevOps
+- https://engineeringdevops.com/documents#23996d8e-f41f-483f-aff6-bbc01568911a
+  
 ## SRE
 - https://newsletter.pragmaticengineer.com/p/incident-review-best-practices
 - https://sre.google/workbook/table-of-contents/
