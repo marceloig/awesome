@@ -7,6 +7,9 @@ Curadoria de links que considero importantes ter em mãos para um profissional d
 - https://typoapp.io/blog/tech-leads-guide-to-understanding-the-role-and-responsibilities/
 - https://buildrightside.com/autonomy-alignment/
 
+## Software Development
+- https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html
+
 ## Engineering
 - https://github.com/charlax/professional-programming
 - https://martinfowler.com/
