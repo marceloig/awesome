@@ -58,3 +58,6 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://evidence.dev/
 - https://superset.apache.org/
 - https://redash.io/
+
+## Web Design
+- https://speakerdeck.com/tracymakes/design-for-non-designers-beyond-tellerand-dusseldorf-2018
