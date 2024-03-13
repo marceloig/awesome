@@ -1,6 +1,8 @@
 # Awesome Links
 Curadoria de links que considero importantes ter em mãos para um profissional de TI
 
+Inspirado na lista https://github.com/charlax/professional-programming
+
 ## Leadership
 - https://leadership.garden/the-rule-of-3-in-communication/
 - http://www.akitaonrails.com/2009/06/05/tradu--o-conselhos-para-gerentes-de-desenvolvimento-de-software
@@ -11,7 +13,6 @@ Curadoria de links que considero importantes ter em mãos para um profissional d
 - https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html
 
 ## Engineering
-- https://github.com/charlax/professional-programming
 - https://martinfowler.com/
 - https://www.allthingsdistributed.com/
 - https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
@@ -28,6 +29,7 @@ Curadoria de links que considero importantes ter em mãos para um profissional d
 
 ## DevOps
 - https://engineeringdevops.com/documents#23996d8e-f41f-483f-aff6-bbc01568911a
+- https://www.sethvargo.com/the-ten-myths-of-devops/
   
 ## SRE
 - https://newsletter.pragmaticengineer.com/p/incident-review-best-practices
