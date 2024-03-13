@@ -14,6 +14,7 @@ Curadoria de links que considero importantes ter em mãos para um profissional d
 - https://github.com/charlax/professional-programming
 - https://martinfowler.com/
 - https://www.allthingsdistributed.com/
+- https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
 
 ## AWS
 - https://pedrodelgallego.github.io/blog/well-architected-framework/adopting-well-architected-framework-organization/
