@@ -8,6 +8,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - http://www.akitaonrails.com/2009/06/05/tradu--o-conselhos-para-gerentes-de-desenvolvimento-de-software
 - https://typoapp.io/blog/tech-leads-guide-to-understanding-the-role-and-responsibilities/
 - https://buildrightside.com/autonomy-alignment/
+- https://github.com/charlax/engineering-management
 
 ## Software Development
 - https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html
