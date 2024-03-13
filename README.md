@@ -27,6 +27,8 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://github.com/primeharbor/sensitive_iam_actions
 - https://github.com/DuckbillGroup/onboarding
 - https://github.com/primeharbor/aws-service-control-policies
+- https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-governance-playbook/welcome.html
+- https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-foundation-playbook/welcome.html
 
 ## DevOps
 - https://engineeringdevops.com/documents#23996d8e-f41f-483f-aff6-bbc01568911a
@@ -42,6 +44,11 @@ Inspirado na lista https://github.com/charlax/professional-programming
 ## Tools
 - https://www.sonarsource.com/
 - https://boxyhq.com/
+
+### DevOps
+- https://steampipe.io/
+- https://powerpipe.io/
+- https://flowpipe.io/
 
 ### Security
 - https://github.com/prowler-cloud/prowler
