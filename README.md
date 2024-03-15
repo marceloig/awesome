@@ -12,6 +12,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 
 ## Software Development
 - https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html
+- https://www.martinfowler.com/articles/newMethodology.html
 
 ## Engineering
 - https://martinfowler.com/
