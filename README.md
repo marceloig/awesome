@@ -18,6 +18,8 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://martinfowler.com/
 - https://www.allthingsdistributed.com/
 - https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
+- https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/
+- https://blog.pragmaticengineer.com/yes-you-should-estimate/
 
 ## AWS
 - https://pedrodelgallego.github.io/blog/well-architected-framework/adopting-well-architected-framework-organization/
