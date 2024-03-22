@@ -20,7 +20,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
 - https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/
 - https://blog.pragmaticengineer.com/yes-you-should-estimate/
-- https://www.youtube.com/watch?v=bG5vx7NBCaI
+- [Jean-Michel Lemieux: Three Product Decisions Every Team Needs to Make | E1129](https://www.youtube.com/watch?v=bG5vx7NBCaI)
 
 ## AWS
 - https://pedrodelgallego.github.io/blog/well-architected-framework/adopting-well-architected-framework-organization/
