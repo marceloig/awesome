@@ -21,6 +21,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://blog.pragmaticengineer.com/a-team-where-everyone-is-a-leader/
 - https://blog.pragmaticengineer.com/yes-you-should-estimate/
 - [Jean-Michel Lemieux: Three Product Decisions Every Team Needs to Make | E1129](https://www.youtube.com/watch?v=bG5vx7NBCaI)
+- https://www.cnpatterns.org/
 
 ## AWS
 - https://pedrodelgallego.github.io/blog/well-architected-framework/adopting-well-architected-framework-organization/
