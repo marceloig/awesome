@@ -23,6 +23,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - [Jean-Michel Lemieux: Three Product Decisions Every Team Needs to Make | E1129](https://www.youtube.com/watch?v=bG5vx7NBCaI)
 - https://www.cnpatterns.org/
 - https://blog.pragmaticengineer.com/what-do-tpms-do/
+- https://www.engineeringladders.com/
 
 ## AWS
 - https://pedrodelgallego.github.io/blog/well-architected-framework/adopting-well-architected-framework-organization/
