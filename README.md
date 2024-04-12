@@ -24,6 +24,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://www.cnpatterns.org/
 - https://blog.pragmaticengineer.com/what-do-tpms-do/
 - https://www.engineeringladders.com/
+- https://newsletter.pragmaticengineer.com/p/shipping-to-production
 
 ## AWS
 - https://pedrodelgallego.github.io/blog/well-architected-framework/adopting-well-architected-framework-organization/
