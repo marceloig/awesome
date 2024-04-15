@@ -32,11 +32,11 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://github.com/build-on-aws
 - https://github.com/aws-samples
 - https://community.aws/
+- https://awsstash.com/
 - https://github.com/primeharbor/sensitive_iam_actions
 - https://github.com/DuckbillGroup/onboarding
 - https://github.com/primeharbor/aws-service-control-policies
 - https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-governance-playbook/welcome.html
-- https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-foundation-playbook/welcome.html
 
 ## DevOps
 - https://engineeringdevops.com/documents#23996d8e-f41f-483f-aff6-bbc01568911a
