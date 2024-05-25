@@ -13,6 +13,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 ## Software Development
 - https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html
 - https://www.martinfowler.com/articles/newMethodology.html
+- https://basecamp.com/gettingreal
 
 ## Engineering
 - https://martinfowler.com/
@@ -77,3 +78,6 @@ Inspirado na lista https://github.com/charlax/professional-programming
 
 ## Web Design
 - https://speakerdeck.com/tracymakes/design-for-non-designers-beyond-tellerand-dusseldorf-2018
+
+## Entrepreneurship
+- https://basecamp.com/shapeup
