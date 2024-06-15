@@ -79,6 +79,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 
 ## Web Design
 - https://speakerdeck.com/tracymakes/design-for-non-designers-beyond-tellerand-dusseldorf-2018
+- https://storybook.js.org/
 
 ## Entrepreneurship
 - https://basecamp.com/shapeup
