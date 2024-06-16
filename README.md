@@ -50,6 +50,12 @@ Inspirado na lista https://github.com/charlax/professional-programming
 ## Team Management
 - https://www.atlassian.com/team-playbook
 
+## Entrepreneurship
+- https://basecamp.com/shapeup
+  
+## Web Design
+- https://speakerdeck.com/tracymakes/design-for-non-designers-beyond-tellerand-dusseldorf-2018
+
 ## Tools
 - https://www.sonarsource.com/
 - https://boxyhq.com/
@@ -81,9 +87,5 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://superset.apache.org/
 - https://redash.io/
 
-## Web Design
-- https://speakerdeck.com/tracymakes/design-for-non-designers-beyond-tellerand-dusseldorf-2018
+### Web Design
 - https://storybook.js.org/
-
-## Entrepreneurship
-- https://basecamp.com/shapeup
