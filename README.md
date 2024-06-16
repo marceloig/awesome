@@ -54,6 +54,9 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://www.sonarsource.com/
 - https://boxyhq.com/
 
+### Development
+- https://refine.dev/
+  
 ### DevOps
 - https://steampipe.io/
 - https://powerpipe.io/
