@@ -48,7 +48,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://sre.google/workbook/table-of-contents/
 
 ## Team Management
-- https://www.atlassian.com/team-playbook
+- [https://www.atlassian.com/team-playbook](https://www.atlassian.com/team-playbook)
 
 ## Entrepreneurship
 - https://basecamp.com/shapeup
