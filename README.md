@@ -38,6 +38,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://github.com/DuckbillGroup/onboarding
 - https://github.com/primeharbor/aws-service-control-policies
 - https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-governance-playbook/welcome.html
+- [Pass AWS credentials to services for Docker Compose](https://www.sambaiz.net/en/article/426/)
 
 ## DevOps
 - https://engineeringdevops.com/documents#23996d8e-f41f-483f-aff6-bbc01568911a
