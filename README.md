@@ -26,6 +26,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://blog.pragmaticengineer.com/what-do-tpms-do/
 - https://www.engineeringladders.com/
 - https://newsletter.pragmaticengineer.com/p/shipping-to-production
+- https://thetechresume.com/
 
 ## AWS
 - https://pedrodelgallego.github.io/blog/well-architected-framework/adopting-well-architected-framework-organization/
@@ -39,6 +40,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://github.com/primeharbor/aws-service-control-policies
 - https://docs.aws.amazon.com/prescriptive-guidance/latest/large-migration-governance-playbook/welcome.html
 - [Pass AWS credentials to services for Docker Compose](https://www.sambaiz.net/en/article/426/)
+- https://blog.spikeseed.cloud/understanding-aws-cloudtrail-logs/
 
 ## DevOps
 - https://engineeringdevops.com/documents#23996d8e-f41f-483f-aff6-bbc01568911a
