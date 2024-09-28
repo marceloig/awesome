@@ -54,6 +54,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 
 ## Team Management
 - www.atlassian.com/team-playbook
+- https://davestewart.co.uk/blog/the-work-is-never-just-the-work/
 
 ## Entrepreneurship
 - https://basecamp.com/shapeup
