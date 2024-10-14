@@ -14,6 +14,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html
 - https://www.martinfowler.com/articles/newMethodology.html
 - https://basecamp.com/gettingreal
+- https://basecamp.com/shapeup
 - https://blog.codinghorror.com/escaping-from-gilligans-island/
 
 ## Engineering
