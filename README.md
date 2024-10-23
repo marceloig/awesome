@@ -89,6 +89,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://asecure.cloud/
 - https://github.com/cloudandthings/terraform-aws-clickops-notifier
 - https://port7777.com/
+- https://gist.github.com/joepie91
 
 ### Data Visualization
 - https://evidence.dev/
