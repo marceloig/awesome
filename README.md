@@ -30,6 +30,11 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://newsletter.pragmaticengineer.com/p/shipping-to-production
 - https://thetechresume.com/
 
+## Platform Engineering
+- https://itnext.io/internal-developer-platform-insights-from-conversations-with-over-100-experts-dbe332353afc
+- https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/
+- https://itnext.io/11-internal-developer-platforms-you-should-know-38394c47f508
+
 ## AWS
 - https://pedrodelgallego.github.io/blog/well-architected-framework/adopting-well-architected-framework-organization/
 - https://pedrodelgallego.github.io/blog/amazon/tolerating-eliminating-duplication/
@@ -44,6 +49,9 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - [Pass AWS credentials to services for Docker Compose](https://www.sambaiz.net/en/article/426/)
 - https://blog.spikeseed.cloud/understanding-aws-cloudtrail-logs/
 - https://github.com/dannysteenman/aws-toolbox
+
+## Cloud Native
+- https://maturitymodel.cncf.io/
 
 ## DevOps
 - https://engineeringdevops.com/documents#23996d8e-f41f-483f-aff6-bbc01568911a
