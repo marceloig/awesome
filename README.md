@@ -34,6 +34,8 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://itnext.io/internal-developer-platform-insights-from-conversations-with-over-100-experts-dbe332353afc
 - https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/
 - https://itnext.io/11-internal-developer-platforms-you-should-know-38394c47f508
+- https://www.pionative.com/
+- https://humanitec.com/
 
 ## AWS
 - https://pedrodelgallego.github.io/blog/well-architected-framework/adopting-well-architected-framework-organization/
