@@ -88,6 +88,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://powerpipe.io/
 - https://flowpipe.io/
 - https://www.windmill.dev/
+- https://awslabs.github.io/cloudfront-hosting-toolkit/
 
 ### Security
 - https://github.com/prowler-cloud/prowler
