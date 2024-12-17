@@ -73,6 +73,10 @@ Inspirado na lista https://github.com/charlax/professional-programming
 ## Web Design
 - https://speakerdeck.com/tracymakes/design-for-non-designers-beyond-tellerand-dusseldorf-2018
 
+## Tech Blogs
+- https://www.readysetcloud.io/
+- https://theburningmonk.com/
+
 ## Tools
 - https://boxyhq.com/
 - https://github.com/rustdesk/rustdesk
