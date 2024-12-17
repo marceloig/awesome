@@ -77,12 +77,16 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://boxyhq.com/
 - https://github.com/rustdesk/rustdesk
 
+### GenAI
+- https://ai.pydantic.dev/
+
 ### Development
 - https://refine.dev/
 - https://www.builder.io/
 - https://supademo.com/
 - https://www.tools4.tech/
 - https://www.sonarsource.com/
+- https://wasp-lang.dev/
   
 ### DevOps
 - https://steampipe.io/
