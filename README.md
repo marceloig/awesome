@@ -80,6 +80,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 ## Tools
 - https://boxyhq.com/
 - https://github.com/rustdesk/rustdesk
+- https://marreta.pcdomanual.com/
 
 ### GenAI
 - https://ai.pydantic.dev/
