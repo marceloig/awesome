@@ -29,6 +29,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://www.engineeringladders.com/
 - https://newsletter.pragmaticengineer.com/p/shipping-to-production
 - https://thetechresume.com/
+- [Entrevista para Dev Senior na Europa ao vivo](https://www.youtube.com/watch?v=nmpxFwJGJgk)
 
 ## Platform Engineering
 - https://itnext.io/internal-developer-platform-insights-from-conversations-with-over-100-experts-dbe332353afc
