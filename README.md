@@ -101,6 +101,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://www.windmill.dev/
 - https://awslabs.github.io/cloudfront-hosting-toolkit/
 - https://github.com/getindata/terraform-module-template
+- https://former2.com/
 
 ### Security
 - https://github.com/prowler-cloud/prowler
