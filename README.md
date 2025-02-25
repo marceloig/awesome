@@ -59,6 +59,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 ## DevOps
 - https://engineeringdevops.com/documents#23996d8e-f41f-483f-aff6-bbc01568911a
 - https://www.sethvargo.com/the-ten-myths-of-devops/
+- https://aws-samples.github.io/aws-deployment-pipeline-reference-architecture/dynamic-configuration-pipeline/
   
 ## SRE
 - https://newsletter.pragmaticengineer.com/p/incident-review-best-practices
