@@ -30,6 +30,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://newsletter.pragmaticengineer.com/p/shipping-to-production
 - https://thetechresume.com/
 - [Entrevista para Dev Senior na Europa ao vivo](https://www.youtube.com/watch?v=nmpxFwJGJgk)
+- [Visualising software architecture with the C4 model](https://s3.amazonaws.com/static.codingthearchitecture.com/presentations/aotb2019-visualising-software-architecture-with-the-c4-model.pdf)
 
 ## Platform Engineering
 - https://itnext.io/internal-developer-platform-insights-from-conversations-with-over-100-experts-dbe332353afc
