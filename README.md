@@ -67,6 +67,9 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://newsletter.pragmaticengineer.com/p/incident-review-best-practices
 - https://sre.google/workbook/table-of-contents/
 
+## Observability
+- https://aws-observability.github.io/observability-best-practices/home
+
 ## Team Management
 - www.atlassian.com/team-playbook
 - https://davestewart.co.uk/blog/the-work-is-never-just-the-work/
