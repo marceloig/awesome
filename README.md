@@ -95,6 +95,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://www.gradio.app/
 - https://streamlit.io/
 - https://www.assistant-ui.com/
+- https://github.com/jlowin/fastmcp
 
 ### Development
 - https://refine.dev/
