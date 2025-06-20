@@ -92,6 +92,9 @@ Inspirado na lista https://github.com/charlax/professional-programming
 
 ### GenAI
 - https://ai.pydantic.dev/
+- https://www.gradio.app/
+- https://streamlit.io/
+- https://www.assistant-ui.com/
 
 ### Development
 - https://refine.dev/
