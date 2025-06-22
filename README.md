@@ -127,6 +127,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://github.com/cloudandthings/terraform-aws-clickops-notifier
 - https://port7777.com/
 - https://gist.github.com/joepie91
+- https://trivy.dev/latest/
 
 ### Data Visualization
 - https://evidence.dev/
