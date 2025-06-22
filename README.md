@@ -113,6 +113,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://awslabs.github.io/cloudfront-hosting-toolkit/
 - https://github.com/getindata/terraform-module-template
 - https://former2.com/
+- https://github.com/terraform-linters/tflint
 
 ### Security
 - https://github.com/prowler-cloud/prowler
