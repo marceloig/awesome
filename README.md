@@ -114,6 +114,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://github.com/getindata/terraform-module-template
 - https://former2.com/
 - https://github.com/terraform-linters/tflint
+- https://github.com/marceloig/terraform-aws-folder-structure
 
 ### Security
 - https://github.com/prowler-cloud/prowler
