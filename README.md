@@ -131,6 +131,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://gist.github.com/joepie91
 - https://trivy.dev/latest/
 - https://github.com/OpenSecOps-Org
+- https://goteleport.com/
 
 ### Data Visualization
 - https://evidence.dev/
