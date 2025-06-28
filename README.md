@@ -129,6 +129,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://port7777.com/
 - https://gist.github.com/joepie91
 - https://trivy.dev/latest/
+- https://github.com/OpenSecOps-Org
 
 ### Data Visualization
 - https://evidence.dev/
