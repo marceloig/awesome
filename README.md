@@ -106,6 +106,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://wasp-lang.dev/
   
 ### DevOps
+- https://www.runatlantis.io/
 - https://steampipe.io/
 - https://powerpipe.io/
 - https://flowpipe.io/
@@ -115,6 +116,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://former2.com/
 - https://github.com/terraform-linters/tflint
 - https://github.com/marceloig/terraform-aws-folder-structure
+- https://scalr.com/learning-center/top-10-best-practices-for-terraform-atlantis/
 
 ### Security
 - https://github.com/prowler-cloud/prowler
