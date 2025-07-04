@@ -134,6 +134,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://trivy.dev/latest/
 - https://github.com/OpenSecOps-Org
 - https://goteleport.com/
+- https://aws.amazon.com/blogs/aws/introducing-amazon-opensearch-service-zero-etl-integration-for-amazon-security-lake/
 
 ### Data Visualization
 - https://evidence.dev/
