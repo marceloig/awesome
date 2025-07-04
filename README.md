@@ -135,7 +135,6 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://aws.amazon.com/blogs/aws/introducing-amazon-opensearch-service-zero-etl-integration-for-amazon-security-lake/
 - https://wazuh.com/
 - https://elasticscale.com/blog/get-a-cheap-vpn-into-your-aws-vpc-and-worldwide-performance-improvement-through-cloudflare-tunnels/
-- https://elasticscale.com/blog/you-do-not-need-that-bastion-host-there-are-better-alternatives/
 
 ### Data Visualization
 - https://evidence.dev/
