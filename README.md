@@ -125,8 +125,6 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://github.com/aquasecurity/tfsec
 - https://sentry.io/welcome/
 - https://www.codacy.com/
-- https://docs.bridgecrew.io/docs/aws-policy-index
-- https://commonfate.io/
 - https://asecure.cloud/
 - https://github.com/cloudandthings/terraform-aws-clickops-notifier
 - https://port7777.com/
@@ -135,6 +133,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://github.com/OpenSecOps-Org
 - https://goteleport.com/
 - https://aws.amazon.com/blogs/aws/introducing-amazon-opensearch-service-zero-etl-integration-for-amazon-security-lake/
+- https://wazuh.com/
 
 ### Data Visualization
 - https://evidence.dev/
