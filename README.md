@@ -54,6 +54,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://blog.spikeseed.cloud/understanding-aws-cloudtrail-logs/
 - https://github.com/dannysteenman/aws-toolbox
 - https://medium.com/@joudwawad/aws-api-gateway-deep-dive-rest-apis-5ae16a326b3a
+- https://containersonaws.com/
 
 ## Cloud Native
 - https://maturitymodel.cncf.io/
