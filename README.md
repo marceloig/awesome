@@ -55,6 +55,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://github.com/dannysteenman/aws-toolbox
 - https://medium.com/@joudwawad/aws-api-gateway-deep-dive-rest-apis-5ae16a326b3a
 - https://containersonaws.com/
+- https://aws.amazon.com/pt/blogs/networking-and-content-delivery/amazon-vpc-vattice-modernize-and-simplify-your-enterprise-network-architectures/
 
 ## Cloud Native
 - https://maturitymodel.cncf.io/
