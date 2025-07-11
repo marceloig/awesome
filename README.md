@@ -58,6 +58,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://containersonaws.com/
 - https://aws.amazon.com/pt/blogs/networking-and-content-delivery/amazon-vpc-vattice-modernize-and-simplify-your-enterprise-network-architectures/
 - https://builder.aws.com/
+- https://www.readysetcloud.io/blog/allen.helton/appsync-events/
 
 ## Cloud Native
 - https://maturitymodel.cncf.io/
