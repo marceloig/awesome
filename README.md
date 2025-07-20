@@ -123,6 +123,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://github.com/terraform-linters/tflint
 - https://github.com/marceloig/terraform-aws-folder-structure
 - https://scalr.com/learning-center/top-10-best-practices-for-terraform-atlantis/
+- https://awslabs.github.io/mcp/
 
 ### Security
 - https://github.com/prowler-cloud/prowler
