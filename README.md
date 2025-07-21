@@ -59,6 +59,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://aws.amazon.com/pt/blogs/networking-and-content-delivery/amazon-vpc-vattice-modernize-and-simplify-your-enterprise-network-architectures/
 - https://builder.aws.com/
 - https://www.ranthebuilder.cloud/post/appsync-events-websockets
+- https://aws.amazon.com/blogs/mt/ten-ways-to-improve-your-aws-operations/
 
 ## Cloud Native
 - https://maturitymodel.cncf.io/
@@ -68,6 +69,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://www.sethvargo.com/the-ten-myths-of-devops/
 - https://aws-samples.github.io/aws-deployment-pipeline-reference-architecture/dynamic-configuration-pipeline/
 - https://web.devopstopologies.com/
+- https://aws-samples.github.io/cloud-operations-best-practices/
   
 ## SRE
 - https://newsletter.pragmaticengineer.com/p/incident-review-best-practices
