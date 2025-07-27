@@ -127,6 +127,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://github.com/marceloig/terraform-aws-folder-structure
 - https://scalr.com/learning-center/top-10-best-practices-for-terraform-atlantis/
 - https://awslabs.github.io/mcp/
+- https://aws.amazon.com/pt/blogs/mt/tag-your-aws-resources-consistently-with-aws-resource-explorer-and-aws-cloudtrail/
 
 ### Security
 - https://github.com/prowler-cloud/prowler
