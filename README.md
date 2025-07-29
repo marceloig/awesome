@@ -61,6 +61,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://www.ranthebuilder.cloud/post/appsync-events-websockets
 - https://aws.amazon.com/blogs/mt/ten-ways-to-improve-your-aws-operations/
 - https://aws.amazon.com/pt/blogs/big-data/amazon-opensearch-service-101-how-many-shards-do-i-need/
+- https://aws.amazon.com/prescriptive-guidance/
 
 ## Cloud Native
 - https://maturitymodel.cncf.io/
