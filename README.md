@@ -148,6 +148,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://aws.amazon.com/blogs/aws/introducing-amazon-opensearch-service-zero-etl-integration-for-amazon-security-lake/
 - https://wazuh.com/
 - https://elasticscale.com/blog/get-a-cheap-vpn-into-your-aws-vpc-and-worldwide-performance-improvement-through-cloudflare-tunnels/
+- https://github.com/TryTryAgain/aws-iam-actions-list/blob/master/all-actions.txt
 
 ### Data Visualization
 - https://evidence.dev/
