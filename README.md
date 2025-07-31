@@ -150,6 +150,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://elasticscale.com/blog/get-a-cheap-vpn-into-your-aws-vpc-and-worldwide-performance-improvement-through-cloudflare-tunnels/
 - https://github.com/TryTryAgain/aws-iam-actions-list/blob/master/all-actions.txt
 - https://www.awsiamactions.io/
+- https://aws.permissions.cloud/
 
 ### Data Visualization
 - https://evidence.dev/
