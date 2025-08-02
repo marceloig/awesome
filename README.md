@@ -151,6 +151,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://github.com/TryTryAgain/aws-iam-actions-list/blob/master/all-actions.txt
 - https://www.awsiamactions.io/
 - https://aws.permissions.cloud/
+- https://www.intelligentdiscovery.io/tools/cloudtrailevents
 
 ### Data Visualization
 - https://evidence.dev/
