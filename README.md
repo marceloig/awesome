@@ -17,6 +17,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://basecamp.com/shapeup
 - https://blog.codinghorror.com/escaping-from-gilligans-island/
 - https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
+- https://refactoring.guru/
 
 ## Engineering
 - https://martinfowler.com/
