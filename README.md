@@ -18,7 +18,10 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://blog.codinghorror.com/escaping-from-gilligans-island/
 - https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
 - https://refactoring.guru/
+
+### Front-end
 - https://github.com/alan2207/bulletproof-react/blob/master/docs/project-structure.md
+- https://daveceddia.com/react-getting-started-tutorial/
 
 ## Engineering
 - https://martinfowler.com/
