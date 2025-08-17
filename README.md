@@ -22,6 +22,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 ### Front-end
 - https://github.com/alan2207/bulletproof-react/blob/master/docs/project-structure.md
 - https://daveceddia.com/react-getting-started-tutorial/
+- https://github.com/brillout/awesome-react-components
 
 ## Engineering
 - https://martinfowler.com/
