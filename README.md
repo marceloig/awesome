@@ -70,6 +70,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://aws.amazon.com/pt/blogs/big-data/amazon-opensearch-service-101-how-many-shards-do-i-need/
 - https://aws.amazon.com/prescriptive-guidance/
 - https://catalog.workshops.aws/awscff/en-US
+- https://medium.com/@joudwawad/aws-ecs-deep-dive-c8f773af0bf6
 
 ## Cloud Native
 - https://maturitymodel.cncf.io/
