@@ -100,6 +100,9 @@ Inspirado na lista https://github.com/charlax/professional-programming
 ## Web Design
 - https://speakerdeck.com/tracymakes/design-for-non-designers-beyond-tellerand-dusseldorf-2018
 
+## AI
+- https://newsletter.pragmaticengineer.com/p/the-ai-engineering-stack
+
 ## Tech Blogs
 - https://www.readysetcloud.io/
 - https://theburningmonk.com/
