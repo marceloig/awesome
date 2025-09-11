@@ -1,4 +1,4 @@
-# Awesome Links
+# Professional Bookmarks Links
 Curadoria de links que considero importantes ter em mãos para um profissional de TI
 
 Inspirado na lista https://github.com/charlax/professional-programming
