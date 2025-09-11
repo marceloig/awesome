@@ -19,6 +19,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/
 - https://refactoring.guru/
 - https://devpost.com/
+- https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf
 
 ### Front-end
 - https://github.com/alan2207/bulletproof-react/blob/master/docs/project-structure.md
