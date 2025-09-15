@@ -104,6 +104,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 
 ## AI
 - https://newsletter.pragmaticengineer.com/p/the-ai-engineering-stack
+- [Book Agentic Design Patterns](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/edit?usp=sharing)
 
 ## Tech Blogs
 - https://www.readysetcloud.io/
