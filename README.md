@@ -76,6 +76,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 
 ## Cloud Native
 - https://maturitymodel.cncf.io/
+- https://cloudgovernance.org/
 
 ## DevOps
 - https://engineeringdevops.com/documents#23996d8e-f41f-483f-aff6-bbc01568911a
