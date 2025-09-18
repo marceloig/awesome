@@ -20,6 +20,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://refactoring.guru/
 - https://devpost.com/
 - https://bytes.usc.edu/~saty/courses/docs/data/SystemDesignInterview.pdf
+- https://dicasdecarreira.dev/
 
 ### Front-end
 - https://github.com/alan2207/bulletproof-react/blob/master/docs/project-structure.md
