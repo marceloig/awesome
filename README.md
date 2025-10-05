@@ -124,6 +124,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://streamlit.io/
 - https://www.assistant-ui.com/
 - https://github.com/jlowin/fastmcp
+- https://github.com/NirDiamant/Prompt_Engineering
 
 ### Development
 - https://refine.dev/
