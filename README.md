@@ -191,6 +191,7 @@ Inspirado na lista https://github.com/charlax/professional-programming
 - https://storyset.com/
 - https://undraw.co/search
 - https://reactbits.dev/
+- https://daisyui.com/
 
 ### Diagram
 - https://adrianvlupu.github.io/C4-Builder/#/?id=overview
